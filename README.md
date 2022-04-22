@@ -8,3 +8,5 @@ _Hi everyone, I just add a readme_
 ` php -S localhost:8000 `
 
 ***then open in browser.***
+
+[Full Readme.md Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
